@@ -79,6 +79,7 @@ nav ul a{
 
 .btn a:hover {
     color: #111 !important;
+    background-color: #E1E586;
 }
 
 .buy-now:hover {
